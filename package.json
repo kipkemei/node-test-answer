@@ -1,0 +1,17 @@
+{
+  "name": "test-answer",
+  "version": "1.0.0",
+  "description": "\"an answer to a simple node question\"",
+  "main": "src/index.ts",
+  "repository": "https://github.com/kipkemei/node-test-answer.git",
+  "author": "De Isaac",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "tslint": "^6.1.2",
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "tslint-config-airbnb": "^5.11.2"
+  }
+}
